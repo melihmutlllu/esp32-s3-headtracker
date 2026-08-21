@@ -35,7 +35,7 @@ the tested wiring, axis mapping and power budget are in
 
 | Schematic | 3D view | Routed layout |
 |---|---|---|
-| ![Schematic](docs/images/schematic.png) | ![3D view](docs/images/pcb-3d.png) | ![Routed layout](docs/images/pcb-layout.png) |
+| ![Schematic](docs/images/schematic.png) | ![Routed layout](docs/images/pcb-3d.png) | ![3D view](docs/images/pcb-layout.png) |
 
 ## Repository Layout
 
